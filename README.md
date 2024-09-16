@@ -1,3 +1,6 @@
+### FEEDBACK-APP
+This is project from Front to Back 2022 course. It allows users to add, update and delete feedback. It uses a mock REST api with json-server.
+
 ### `npm start`
 
 Runs the app in the development mode.\
